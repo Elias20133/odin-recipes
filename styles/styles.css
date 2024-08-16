@@ -1,0 +1,12 @@
+body {background-color: lightgoldenrodyellow;}
+
+.main-title {background-color: rgb(188, 161, 127);
+             padding: 10px;
+            margin: auto;
+            text-align: center;
+            display: block;}
+
+.main-img {display: block;
+            margin: auto;}   
+            
+.list-item {background-color: rgb(188, 161, 127);}
